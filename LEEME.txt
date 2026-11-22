@@ -1,13 +1,6 @@
-WELLNET - TU DOMINIO REAL ES: https://wellnet-vercel-listo.vercel.app/
+WELLNET - NUEVO DOMINIO: https://wellnet-israel.vercel.app/
 
-YA ESTA CORREGIDO EN TODOS LOS ARCHIVOS.
-
-COMO ACTUALIZAR EN VERCEL:
-1. Andá a tu repo en GitHub donde subiste los archivos
-2. Subí de nuevo SOLO el index.html corregido (reemplazalo)
-3. Vercel redeploya solo en unos segundos.
-
-LUEGO GOOGLE:
-1. search.google.com/search-console
-2. Agregar propiedad: https://wellnet-vercel-listo.vercel.app/
-3. Verificar y pedir Indexación.
+1. Subí a GitHub (reemplazando los viejos): index.html, robots.txt, sitemap.xml
+2. Vercel redeploya solo.
+3. En Google Search Console: agregá la propiedad nueva https://wellnet-israel.vercel.app/ y pedí indexación.
+4. Borrá la propiedad vieja wellnet-vercel-listo cuando ya veas la nueva en Google.
