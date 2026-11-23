@@ -1,6 +1,0 @@
-WELLNET - NUEVO DOMINIO: https://wellnet-israel.vercel.app/
-
-1. Subí a GitHub (reemplazando los viejos): index.html, robots.txt, sitemap.xml
-2. Vercel redeploya solo.
-3. En Google Search Console: agregá la propiedad nueva https://wellnet-israel.vercel.app/ y pedí indexación.
-4. Borrá la propiedad vieja wellnet-vercel-listo cuando ya veas la nueva en Google.
