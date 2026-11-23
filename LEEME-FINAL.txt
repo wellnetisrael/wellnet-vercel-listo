@@ -1,0 +1,7 @@
+DOMINIO FINAL: https://wellnetisrael.vercel.app/
+
+1. En GitHub, BORRA todos los archivos viejos del repo (incluidos los _1 y el ZIP).
+2. Subí SOLO estos 4: index.html, robots.txt, sitemap.xml, vercel.json
+3. Esperá Ready en Vercel.
+4. En Search Console, borrá el sitemap viejo y volvé a enviar sitemap.xml
+5. Inspección de URLs > solicitar indexación UNA sola vez, y esperá 24h.
