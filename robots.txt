@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://wellnetisrael.vercel.app/sitemap.xml
