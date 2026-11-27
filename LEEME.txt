@@ -1,4 +1,2 @@
-ESTE ES EL LANDING REAL COMPLETO (bienvenida + tienda + Luly Pepito Chiquita)
-Ya tiene SEO + Kit 1 en 4 idiomas + WhatsApp 0507996638 + Bit.
-
-Subí SOLO index.html a GitHub reemplazando el viejo, esperá Ready en Vercel.
+SOLO SUBÍ index.html - Ya tenés los PDFs en GitHub, no los subas de nuevo.
+Este index.html cambia el texto del menú de "Pronto vendrán" a "Ya disponible en ruso e inglés".
