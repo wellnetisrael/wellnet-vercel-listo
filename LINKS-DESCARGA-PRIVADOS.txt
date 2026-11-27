@@ -1,0 +1,14 @@
+LINKS PRIVADOS - NO LOS PUBLIQUES EN EL SITIO, MANDALOS SOLO POR WHATSAPP DESPUÉS DEL BIT
+
+RUSO 79 pág.:
+https://wellnetisrael.vercel.app/descargas/Diario-del-Loco-Ruso-Puteshestvie-Shuta-79-paginas.pdf
+
+INGLÉS 71 pág.:
+https://wellnetisrael.vercel.app/descargas/Diario-del-Loco-Ingles-The-Fools-Journey-71-paginas.pdf
+
+CÓMO USARLOS:
+1. Te llega el recibo de Bit por WhatsApp
+2. Copiás el link del idioma que pidió
+3. Se lo mandás por WhatsApp con el mensaje 'Listo, acá está tu descarga'
+
+NOTA: En robots.txt puse Disallow: /descargas/ para que Google no los muestre en búsquedas.

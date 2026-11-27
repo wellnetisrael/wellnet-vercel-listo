@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /descargas/
 
 Sitemap: https://wellnetisrael.vercel.app/sitemap.xml
